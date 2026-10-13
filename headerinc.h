@@ -1,0 +1,1 @@
+void *headerinclusion(char *ptr);

@@ -1,0 +1,1 @@
+void *macroreplace(char *ptr);
